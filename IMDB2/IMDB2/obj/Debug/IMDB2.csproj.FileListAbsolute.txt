@@ -1,0 +1,11 @@
+c:\users\emirosman\source\repos\IMDB2\IMDB2\bin\Debug\IMDB2.exe.config
+c:\users\emirosman\source\repos\IMDB2\IMDB2\bin\Debug\IMDB2.exe
+c:\users\emirosman\source\repos\IMDB2\IMDB2\bin\Debug\IMDB2.pdb
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.csprojAssemblyReference.cache
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.Form1.resources
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.Properties.Resources.resources
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.csproj.GenerateResource.cache
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.csproj.CoreCompileInputs.cache
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.exe
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.pdb
+c:\users\emirosman\source\repos\IMDB2\IMDB2\obj\Debug\IMDB2.CastForm.resources
